@@ -2,7 +2,7 @@
 <!--- --->
 👀 &nbsp;&nbsp;Here you can find my portfolio, including projects I have worked on as part of the course.
 <!--- --->
-🌱 &nbsp;&nbsp;I’m continuing learning React, Node.js and Python. 
+🌱 &nbsp;&nbsp;I’m continuing improving my knowledge of Javascript, React and Node.js, and have started learning Python. 
 <!--- --->
 💞️ &nbsp;&nbsp;I’m also interested in home automation, using Home Assistant and Node-RED.
 <!--- --->
