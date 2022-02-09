@@ -8,7 +8,7 @@
 <!--- --->
 📫 &nbsp;&nbsp;You can read more about me on Linkedin: https://www.linkedin.com/in/eavior/.<br>
 
-<i>Note regarding my contribution history: during my 2 month internship (summer 2021) my host company requested to use their account (hence the gap).</i>
+<i>Note that my contribution history does not include my current employment and the 2 month internship (summer 2021).</i>
 
 <!---
 eavior/eavior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
